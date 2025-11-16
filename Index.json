@@ -1,0 +1,32 @@
+[
+  {
+    "paper_year": 2023,
+    "question_number": "1a",
+    "chapter": "Chapter 1: Introduction",
+    "marks": 5
+  },
+  {
+    "paper_year": 2023,
+    "question_number": "1b",
+    "chapter": "Chapter 3: Data Structures",
+    "marks": 10
+  },
+  {
+    "paper_year": 2023,
+    "question_number": "2a",
+    "chapter": "Chapter 1: Introduction",
+    "marks": 5
+  },
+  {
+    "paper_year": 2023,
+    "question_number": "2b",
+    "chapter": "Chapter 2: Algorithms",
+    "marks": 10
+  },
+  {
+    "paper_year": 2022,
+    "question_number": "1",
+    "chapter": "Chapter 3: Data Structures",
+    "marks": 15
+  }
+]
